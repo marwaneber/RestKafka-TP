@@ -25,3 +25,14 @@ Via Console
 ### 3eme use case
 
 ![](screens/3_useCase.png)
+
+
+### 4eme use case
+
+R3 & R1
+
+![](screens/4_UseCase-R3&R1.png)
+
+R3 & R2
+
+![](screens/4_UseCase-R3&R2.png)
