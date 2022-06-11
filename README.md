@@ -36,3 +36,14 @@ R3 & R1
 R3 & R2
 
 ![](screens/4_UseCase-R3&R2.png)
+
+
+### 5eme use case
+
+KafkaStream : RawData
+
+![](screens/5eme_UseCase-Rawdata.png)
+
+KafkaStream : Visual using Smoothie.js
+
+![](screens/5eme_UseCase-Visual.png)
